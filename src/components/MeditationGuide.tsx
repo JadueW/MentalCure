@@ -29,7 +29,7 @@ const meditationScenes: MeditationScene[] = [
     duration: 5,
     suitable: '适合在工作日午休或下班后进行',
     benefits: ['缓解工作压力', '提升注意力', '改善情绪'],
-    audioUrl: '/public/River Flow in You.mp3',
+    audioUrl: '/River Flow in You.mp3',
     guidanceSteps: [
       '找一个安静的地方，采取舒适的坐姿',
       '闭上眼睛，深呼吸三次',
